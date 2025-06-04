@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>577520981278-9qa2hs1la87ppupgddtt45g4iq291htq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.577520981278-9qa2hs1la87ppupgddtt45g4iq291htq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBkoAYRtgfa9LagKyaNewOHaDW84kkTqXU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>577520981278</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>hhpnz-wearable</string>
+	<key>PROJECT_ID</key>
+	<string>hhpnz-wearable-fc6aa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hhpnz-wearable-fc6aa.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:577520981278:ios:29a906974b2c848922650f</string>
+</dict>
+</plist>
